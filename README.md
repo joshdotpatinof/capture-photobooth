@@ -1,6 +1,6 @@
 # Capture.
 
-A virtual photobooth created.
+A virtual photobooth created using Svelte. 
 
 
 # sv
