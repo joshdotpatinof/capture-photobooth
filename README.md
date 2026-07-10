@@ -2,6 +2,14 @@
 
 A virtual photobooth created using Svelte. 
 
+## 📸 Screenshots
+
+### Main Screen Screen
+![Main Screen](scene_1.png)
+
+### Result
+![Result](scene_2.png)
+
 
 # sv
 
