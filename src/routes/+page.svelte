@@ -276,7 +276,7 @@
             </div>   
         </div>
     {/if}
-    <p class="photobooth__author">by <a href="https://github.com/j-shp">j-shp</a></p>
+    <p class="photobooth__author">by <a href="https://github.com/joshdotpatinof">joshdotpatinof</a></p>
 </main>
 
 <canvas bind:this={singlePhotoCanvas} style="display: none;"></canvas>
